@@ -9,7 +9,7 @@ header {
   margin: 0 0 20px 0;
 }
 
-.container {
+.cabecalho {
   width: 100%;
   max-width: 700px;
   margin: auto;
@@ -20,7 +20,7 @@ header {
   justify-content: space-between;
 }
 
-.container a {
+.cabecalho a {
   text-decoration: none;
   color: unset;
 }

@@ -1,5 +1,6 @@
-@import url(./header.css);
-@import url(./main.css);
+@import url(./cabecalho.css);
+@import url(./cartao.css);
+@import url(./endereco.css);
 
 * {
   box-sizing: border-box;

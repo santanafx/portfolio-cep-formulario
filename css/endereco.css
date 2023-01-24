@@ -1,0 +1,22 @@
+.endereco__bg {
+  padding: 10px;
+}
+
+.endereco__container {
+  background-color: var(--cinza);
+  color: var(--branco);
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.endereco__container h3 {
+  color: var(--azul);
+  font-size: 1.5em;
+}
+
+.endereco__cep {
+  color: var(--cinza-claro);
+  font-size: 0.8em;
+}
