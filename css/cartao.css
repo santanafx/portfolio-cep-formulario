@@ -49,3 +49,11 @@
   font-size: 1.1em;
   font-weight: 700;
 }
+
+.cartao__botao button:hover {
+  cursor: pointer;
+}
+
+/* .cartao__input:disabled {
+  background-color: brown;
+} */
