@@ -9,6 +9,9 @@
   border-radius: 10px;
   max-width: 600px;
   margin: 0 auto 10px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .endereco__container h3 {
@@ -19,4 +22,16 @@
 .endereco__cep {
   color: var(--cinza-claro);
   font-size: 0.8em;
+}
+
+.endereco__remover {
+  background-color: var(--azul);
+  color: var(--branco);
+  border-style: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1.1em;
+  font-weight: 700;
+  height: 40px;
+  width: 125px;
 }
