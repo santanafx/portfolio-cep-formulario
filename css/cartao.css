@@ -54,6 +54,22 @@
   cursor: pointer;
 }
 
-/* .cartao__input:disabled {
-  background-color: brown;
-} */
+.cartao__contato {
+  display: flex;
+  align-items: center;
+}
+
+.cartao__contato h3 {
+  color: var(--cinza-claro);
+  font-size: 0.7rem;
+}
+
+.cartao__imagens {
+  max-width: 80px;
+  min-width: 80px;
+  margin: 0 20px 20px 0;
+}
+
+.cartao__imagens:hover {
+  cursor: pointer;
+}
