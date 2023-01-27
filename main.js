@@ -1,6 +1,6 @@
-import { limparFormulario } from "./limparFormulario.js";
-import { preencherFormulario } from "./preencherFormulario.js";
-import { salvaFormulario } from "./salvaFormulario.js";
+import { limparFormulario } from "./js/limparFormulario";
+import { preencherFormulario } from "./js/preencherFormulario.js";
+import { salvaFormulario } from "./js/salvaFormulario.js";
 
 const botaoSalvar = document.querySelector("#cartao__salvar");
 let cep = document.querySelector("#cep");

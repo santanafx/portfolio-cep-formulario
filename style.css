@@ -1,6 +1,6 @@
-@import url(./cabecalho.css);
-@import url(./cartao.css);
-@import url(./endereco.css);
+@import url(./css/cabecalho.css);
+@import url(./css/cartao.css);
+@import url(./css/endereco.css);
 
 * {
   box-sizing: border-box;
