@@ -1,4 +1,4 @@
-import { limparFormulario } from "./js/limparFormulario";
+import { limparFormulario } from "./js/limparFormulario.js";
 import { preencherFormulario } from "./js/preencherFormulario.js";
 import { salvaFormulario } from "./js/salvaFormulario.js";
 
